@@ -18,11 +18,7 @@ Ask Alvi is an AI-powered Telegram bot that allows users to ask questions direct
 
 ## Installation Guide
 ### Step 1: Add the Bot to Your Telegram Group
-1. Open Telegram and search for your bot using its username (e.g., `@YourBotUsername`).
-2. Click on the bot’s profile to open its info window.
-3. Tap on the "Add to Group or Channel" button (you may need to click on the three-dot menu to find this option).
-4. Select your group and confirm the addition.
-
+[Click Here](https://t.me/ask_alvi_bot)
 ### Step 2: Grant Admin Permissions
 1. Open the group chat where the bot is added.
 2. Tap the group name/title at the top.
